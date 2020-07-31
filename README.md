@@ -2,6 +2,8 @@
 
 These transcriptions were made as part of the AHRC funded Codex Zacynthius project. They conform to TEI P5.
 
+All files are released under a CC BY 4.0 license.
+
 ## L299-lectionary
 
 Is a transcription of the Lectionary overtext of the manuscript
